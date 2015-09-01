@@ -4,7 +4,11 @@
   "keywords": [
     "css",
     "js",
+<<<<<<< HEAD
     "sass",
+=======
+    "less",
+>>>>>>> f0049f719e6b3a0d4118c010bfe3d54f0da0e45f
     "mobile-first",
     "responsive",
     "front-end",
@@ -15,7 +19,11 @@
   "license": "MIT",
   "moduleType": "globals",
   "main": [
+<<<<<<< HEAD
     "scss/bootstrap.scss",
+=======
+    "less/bootstrap.less",
+>>>>>>> f0049f719e6b3a0d4118c010bfe3d54f0da0e45f
     "dist/js/bootstrap.js"
   ],
   "ignore": [
@@ -29,6 +37,10 @@
     "test-infra"
   ],
   "dependencies": {
+<<<<<<< HEAD
     "jquery": "1.9.1 - 2"
+=======
+    "jquery": ">= 1.9.1"
+>>>>>>> f0049f719e6b3a0d4118c010bfe3d54f0da0e45f
   }
 }

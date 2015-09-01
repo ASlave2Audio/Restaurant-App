@@ -18,9 +18,13 @@ Package.onUse(function (api) {
     'dist/fonts/glyphicons-halflings-regular.svg',
     'dist/fonts/glyphicons-halflings-regular.ttf',
     'dist/fonts/glyphicons-halflings-regular.woff',
+<<<<<<< HEAD
     'dist/fonts/glyphicons-halflings-regular.woff2'
   ], 'client', { isAsset: true });
   api.addFiles([
+=======
+    'dist/fonts/glyphicons-halflings-regular.woff2',
+>>>>>>> f0049f719e6b3a0d4118c010bfe3d54f0da0e45f
     'dist/css/bootstrap.css',
     'dist/js/bootstrap.js'
   ], 'client');
